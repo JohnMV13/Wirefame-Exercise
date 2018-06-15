@@ -3,10 +3,10 @@ body {
 }
 header{
   box-sizing: border-box;
-  background-color: grey;
+  background-color: #36454f;
   color: white;
 }
-nav {
+.topbar {
   text-align: bottom;
   border-radius: 20px;
   right: 10px;
