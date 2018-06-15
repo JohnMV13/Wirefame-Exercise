@@ -5,5 +5,15 @@ header{
   box-sizing: border-box;
   background-color: grey;
   color: white;
-  padding: 30px;
+}
+nav {
+  text-align: bottom;
+  border-radius: 20px;
+  right: 10px;
+  border-top: 20px;
+}
+.items {
+  text-align: right;
+  text-align: top;
+  
 }
